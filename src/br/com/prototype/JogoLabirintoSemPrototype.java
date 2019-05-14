@@ -1,6 +1,6 @@
 package br.com.prototype;
 
-public class JogoLabirintoSemProtype {
+public class JogoLabirintoSemPrototype {
 	public static void main(String[] args) {
 
 	}
